@@ -10,4 +10,4 @@ https://raw.githubusercontent.com/santosan0110/vrm/main/TeddyLong-DeathRed.vrm
 https://raw.githubusercontent.com/santosan0110/vrm/main/TeddyLong-ColdBlue.vrm
 https://raw.githubusercontent.com/santosan0110/vrm/main/TeddyLong-Bananasyellow.vrm
 https://raw.githubusercontent.com/santosan0110/vrm/main/TeddyLong-Akira.vrm
-https://raw.githubusercontent.com/santosan0110/vrm/main/TeddyLong-AkiraWing.vrm
+https://raw.githubusercontent.com/santosan0110/vrm/main/
