@@ -11,3 +11,5 @@ https://raw.githubusercontent.com/santosan0110/vrm/main/TeddyLong-Taffy2.vrm
 https://raw.githubusercontent.com/santosan0110/vrm/main/TeddyLong-Whitenight2.vrm
 https://raw.githubusercontent.com/santosan0110/vrm/main/TeddyLong-MilitantOrange2.vrm
 https://raw.githubusercontent.com/santosan0110/vrm/main/TeddyLong-MilitantGreen2.vrm
+# spark
+https://raw.githubusercontent.com/santosan0110/vrm/main/4479rig-Final.vrm
