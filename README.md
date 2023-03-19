@@ -15,4 +15,5 @@ https://raw.githubusercontent.com/santosan0110/vrm/main/TeddyLong-MilitantGreen2
 https://raw.githubusercontent.com/santosan0110/vrm/main/4479rig-Final.vrm
 https://raw.githubusercontent.com/santosan0110/vrm/main/1677.vrm
 https://raw.githubusercontent.com/santosan0110/vrm/main/2278.vrm
+https://raw.githubusercontent.com/santosan0110/vrm/main/2278v1.vrm
 https://raw.githubusercontent.com/santosan0110/vrm/main/3024.vrm
