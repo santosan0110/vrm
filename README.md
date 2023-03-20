@@ -19,3 +19,5 @@ https://raw.githubusercontent.com/santosan0110/vrm/main/2278v1.vrm
 https://raw.githubusercontent.com/santosan0110/vrm/main/3024.vrm
 https://raw.githubusercontent.com/santosan0110/vrm/main/7186.vrm
 https://raw.githubusercontent.com/santosan0110/vrm/main/5699.vrm
+https://raw.githubusercontent.com/santosan0110/vrm/main/7856.vrm
+https://raw.githubusercontent.com/santosan0110/vrm/main/5677.vrm
