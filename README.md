@@ -22,3 +22,6 @@ https://raw.githubusercontent.com/santosan0110/vrm/main/5699.vrm
 https://raw.githubusercontent.com/santosan0110/vrm/main/7856.vrm
 https://raw.githubusercontent.com/santosan0110/vrm/main/5677.vrm
 https://raw.githubusercontent.com/santosan0110/vrm/main/5250.vrm
+https://raw.githubusercontent.com/santosan0110/vrm/main/1289.vrm
+https://raw.githubusercontent.com/santosan0110/vrm/main/3129.vrm
+https://raw.githubusercontent.com/santosan0110/vrm/main/5088.vrm
