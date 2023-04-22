@@ -29,5 +29,6 @@ https://raw.githubusercontent.com/santosan0110/vrm/main/6245_tpose.vrm
 https://raw.githubusercontent.com/santosan0110/vrm/main/5250_tpose.vrm
 https://raw.githubusercontent.com/santosan0110/vrm/main/7102.vrm
 https://raw.githubusercontent.com/santosan0110/vrm/main/7224.vrm
+https://raw.githubusercontent.com/santosan0110/vrm/main/4661_tpose.vrm
 # lokals
 https://raw.githubusercontent.com/santosan0110/vrm/main/lokal2.vrm
