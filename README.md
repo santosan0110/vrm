@@ -32,5 +32,7 @@ https://raw.githubusercontent.com/santosan0110/vrm/main/7224.vrm
 https://raw.githubusercontent.com/santosan0110/vrm/main/4661_tpose.vrm  ascend
 https://raw.githubusercontent.com/santosan0110/vrm/main/5453_tpose.vrm
 https://raw.githubusercontent.com/santosan0110/vrm/main/1680_tpose.vrm  camo WN
+https://raw.githubusercontent.com/santosan0110/vrm/main/6436.vrm  valu
+
 # lokals
 https://raw.githubusercontent.com/santosan0110/vrm/main/lokal2.vrm
