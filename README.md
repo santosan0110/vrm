@@ -34,5 +34,8 @@ https://raw.githubusercontent.com/santosan0110/vrm/main/5453_tpose.vrm
 https://raw.githubusercontent.com/santosan0110/vrm/main/1680_tpose.vrm  camo WN
 https://raw.githubusercontent.com/santosan0110/vrm/main/6436_tpose.vrm valu
 
+# ava
+https://raw.githubusercontent.com/santosan0110/vrm/main/River.vrm river
+
 # lokals
 https://raw.githubusercontent.com/santosan0110/vrm/main/lokal2.vrm
